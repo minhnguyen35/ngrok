@@ -27,14 +27,7 @@ echo "service started"
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 unzip ngrok-stable-linux-amd64.zip
 
-# hhmtrinhs
-# ./ngrok authtoken 1QLwws2PclwortZn4TQ46kFdjPm_3ttdFF2cyqd6wJkxyNC94
-
-# sophiaawh
-#  ./ngrok authtoken 1S2XcTJUPYRYF1OvAkgXnJXfgo4_87JtRBcHB3fLkHy2BjRxr
-
-# server1
-./ngrok authtoken 1S43QgmnkodAGYfMpNoUTbMh7oT_4DzuPH9XA2cG8rmAHEeEM
+./ngrok authtoken 1V63X1IjyCowEI24SwVu1gQx9Eg_3B2txjVtxVAd3FUiVGhhv
 
 
 echo "ngrok stated"
